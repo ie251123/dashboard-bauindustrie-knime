@@ -75,6 +75,3 @@ Diese müssen im Credential Widget im KNIME-Workflow hinterlegt werden.
 3. API Keys im Credential Widget hinterlegen
 4. Workflow ausführen
 5. Dashboard über die integrierten Views nutzen
-
-
----
